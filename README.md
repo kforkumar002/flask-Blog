@@ -1,2 +1,2 @@
-# flask-Blog
-This is the blog we created on CodeWithHarry Channel
+# Flask-Blog
+This is the blogging website we created using flask framework written in python from CodeWithHarry youtube Channel
